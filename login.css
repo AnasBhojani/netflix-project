@@ -1,0 +1,134 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Poppins", serif;
+  font-weight: 700;
+  font-style: normal;
+}
+body{
+    background-image: url(/Netflix\ Indian\ Movies\ and\ Web\ Series.jpeg);
+    background-size: cover;
+    opacity: 0.81;
+}
+
+form {
+   /*  background-color: rgba(49, 45, 45, 0.459); */
+    color: white;
+    background-color: transparent;
+ 
+border-radius: 10px;
+  position: relative;
+  margin-top: 4%;
+  left: 33%;
+  width: 30vw;
+  height: 80vh;
+  z-index: 100;
+  
+}
+h2{
+    margin: 0px 125px;
+    font-size: 40px;
+    font-weight: bolder;
+    
+}
+.first{
+padding: 0px 4px;
+display: flex;
+margin: 5px 0px;
+}
+.first input{
+padding: 10px 25px;
+border-radius: 6px;
+margin-top: 30px;
+margin-left: -89px;
+
+border: none;
+}
+.first label{
+padding: 0px 10px;
+
+}
+.second{
+    padding: 0px 4px;
+    display: flex;
+}
+.second input{
+    padding: 10px 25px;
+    border-radius: 6px;
+    margin-top: 30px;
+    margin-left: -59px;
+    border: none;
+    
+}
+.second input:hover{
+    border-radius: 8px;
+    transition: 1s ease-in-out;
+    background-color: rgba(219, 216, 216, 0.205);
+    color: rgba(255, 255, 255, 0.11);
+}
+.first input:hover{
+    border-radius: 8px;
+    transition: 1s ease-in-out;
+    background-color: rgba(219, 216, 216, 0.205);
+    color: rgba(255, 255, 255, 0.11);
+   
+}
+.second label{
+    padding: 0px 10px;
+    margin: 0px 4px;
+        
+}
+.buttoninput button{
+margin: 5px 125px;
+padding: 10px 25px;
+border: 3px solid black;
+border-radius: 6px;
+
+}
+.buttoninput button:hover{
+    background-color: red;
+    transition: 1s ease-in-out;
+}
+.remember{
+display: flex;
+}
+.remember input{
+margin: 2px 28px;
+}
+.remember label{
+    margin: 0px 40px;
+}
+.new2 p{
+margin: 5px 10px;
+}
+.signlink{
+margin: 2px 47px;
+}
+.new2{
+    display: flex;
+    margin: 0px 13px;
+    
+
+}
+.new2 p{
+    margin: 0px 10px;
+}
+.new2 a{
+    margin: 0px 70px;
+}
+span{
+   margin:2px 13px;
+   padding: 2px 6px;
+}
+span a{
+    margin: 15px;
+    padding: 4px;
+}
+.id{
+    margin: 2px 5px;
+}
+a{
+    text-decoration: none;
+    cursor: pointer;
+    
+}

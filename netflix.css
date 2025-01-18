@@ -22,6 +22,9 @@
 body {
   background: #000;
 }
+a{
+  text-decoration: none;
+}
 .main .box {
   height: 80vh;
   width: 100%;
@@ -87,6 +90,9 @@ nav button {
   background-color: transparent;
   border-radius: 15px;
   font-size: 20px;
+}
+.btn a{
+  color: white;
 }
 .btn-red {
   background-color: transparent;
